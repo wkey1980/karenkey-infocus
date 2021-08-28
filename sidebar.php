@@ -9,5 +9,5 @@
 ?>
 
 <?php get_header(); ?>
-
+<h1>sidebar.php</h1>
 <?php get_footer(); ?>

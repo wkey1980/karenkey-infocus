@@ -10,12 +10,14 @@
  */
 ?>
 
-	<div class="site-info">
-		<div class="container">
-			<p>karenkey-infocus</p>
-		</div>
+	<footer>
+		<div class="site-info">
+			<div class="container">
+				<h1>footer.php</h1>
+			</div>
 
-	</div>
+		</div>
+	</footer>
 
 	<?php wp_footer(); ?>
 </body>

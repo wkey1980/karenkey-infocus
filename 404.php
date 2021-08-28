@@ -9,6 +9,7 @@
 ?>
 
 <?php get_header(); ?>
+<h1>404.php</h1>
 
 	<section class="error-404 not-found">
 		<h1><?php esc_html_e( 'Error, No Content Found', 'karenkey-infocus' ); ?></h1>
