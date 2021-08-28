@@ -1,6 +1,6 @@
 <?php
 /**
- * Template part for displaying a message that posts cannot be found
+ * The template for displaying contact form pages
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *

@@ -10,7 +10,10 @@
  */
 ?>
 
-	<div class="footer">
+	<div class="site-info">
+		<div class="container">
+			<p>karenkey-infocus</p>
+		</div>
 
 	</div>
 
